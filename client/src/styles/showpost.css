@@ -1,0 +1,11 @@
+ span{
+    color: white;
+}
+#edit{
+    width: 10%;
+    display: inline-block;
+}
+#delete{
+    width: 10%;
+    display: inline-block;
+}
